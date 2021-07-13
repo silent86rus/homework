@@ -2,9 +2,9 @@ name1 = input("Введите имя первого человека: ")
 name2 = input("Введите имя второго человека: ")
 name3 = input("Введите имя третьего человека: ")
 
-salary1 = input("зп первого: ")
-salary2 = input("зп второго: ")
-salary3 = input("зп третьего: ")
+#salary1 = input("зп первого: ")
+#salary2 = input("зп второго: ")
+#salary3 = input("зп третьего: ")
 
 credit = float(input("Введите сумму кредита: "))
 period = float(input("Введите срок в месяцах: "))
